@@ -1,2 +1,7 @@
+
+
 Este es un simple archivo de texto
 para el ejercicio de Git y GitHub
+
+Agregamos un par de lineas mas para
+modificar el txt desde el branch1
