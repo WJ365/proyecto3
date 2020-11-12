@@ -1,2 +1,5 @@
 Este es un simple archivo de texto
 para el ejercicio de Git y GitHub
+
+ahora volvemos a la rama master
+__________________________________
